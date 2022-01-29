@@ -1,0 +1,7 @@
+﻿  27jan.cpp
+  Outer.cpp
+  Stack.cpp
+  Создание кода...
+C:\Users\taras\source\repos\27jan\27jan\Stack.h(48): warning C4715: Stack::peek: значение возвращается не при всех путях выполнения
+Stack.obj : error LNK2005: _main уже определен в 27jan.obj
+C:\Users\taras\source\repos\27jan\Debug\27jan.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
